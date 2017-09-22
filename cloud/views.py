@@ -14,7 +14,6 @@ import os
 import mimetypes
 from wsgiref.util import FileWrapper
 import urllib
-import json
 
 
 def is_outer(user):
